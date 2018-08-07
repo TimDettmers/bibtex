@@ -1,0 +1,10 @@
+@inproceedings{dettmersConvE2018,
+  Author = {Dettmers, Tim and Pasquale, Minervini and Pontus, Stenetorp and Riedel, Sebastian},
+  Booktitle = {{Proceedings of the 32th Conference on Artificial Intelligence (AAAI)}},
+  Title = {Convolutional 2D Knowledge Graph Embeddings},
+  pages  = {1811--1818},
+  Year = {2018},
+  Month = {February},
+  address = {New Orleans, USA}
+}
+
