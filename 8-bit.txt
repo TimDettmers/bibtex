@@ -1,0 +1,8 @@
+@inproceedings{dettmers8bit2016,
+  title={8-bit Approximations for Parallelism in Deep Learning},
+  author={Dettmers, Tim},
+  booktitle={4th International Conference on Learning Representations (ICLR)},
+  year={2016},
+  month = {May},
+  address = {San Juan, Puerto Rico}
+}

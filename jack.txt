@@ -1,0 +1,6 @@
+@inproceedings{weissenborn2018jack,
+ title={Jack the Reader -- A Machine Reading Framework},
+ author={Weissenborn, Dirk and Minervini, Pasquale and Dettmers, Tim and Augenstein, Isabelle and Welbl, Johannes and Rockt{\"a}schel, Tim and Bo{\v s}njak, Matko and Mitchell, Jeff and Demeester, THomas and Stenetorp, Pontus and Riedel Sebastian},
+ year={2018},
+ booktitle={56th Annual Meeting of the Association for Computational Linguistics}
+}
